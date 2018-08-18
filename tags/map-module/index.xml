@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Map Module on Simon Wild</title>
+    <link>https://swild.me/tags/map-module/</link>
+    <description>Recent content in Map Module on Simon Wild</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://swild.me/tags/map-module/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>US Map Drupal 7</title>
+      <link>https://swild.me/projects/contributions/drupal-module-module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swild.me/projects/contributions/drupal-module-module/</guid>
+      <description>Creates a state clickable map which pulls data from a table in a Drupal 7 database.</description>
+    </item>
+    
+  </channel>
+</rss>
