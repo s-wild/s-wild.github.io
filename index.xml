@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Simon Wild</title>
-    <link>https://swild.me/</link>
+    <link>https://up637415.github.io/</link>
     <description>Recent content in Home on Simon Wild</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
     
-	<atom:link href="https://swild.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://up637415.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://swild.me/publications/alldaydevops/</link>
+      <link>https://up637415.github.io/publications/alldaydevops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://swild.me/publications/alldaydevops/</guid>
+      <guid>https://up637415.github.io/publications/alldaydevops/</guid>
       <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
  Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
     </item>
     
     <item>
       <title>US Map Drupal 7</title>
-      <link>https://swild.me/projects/contributions/drupal-module-module/</link>
+      <link>https://up637415.github.io/projects/contributions/drupal-module-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://swild.me/projects/contributions/drupal-module-module/</guid>
+      <guid>https://up637415.github.io/projects/contributions/drupal-module-module/</guid>
       <description>Creates a state clickable map which pulls data from a table in a Drupal 7 database.</description>
     </item>
     
     <item>
       <title>Exxon Vote Tool</title>
-      <link>https://swild.me/projects/creations/exxon/</link>
+      <link>https://up637415.github.io/projects/creations/exxon/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://swild.me/projects/creations/exxon/</guid>
+      <guid>https://up637415.github.io/projects/creations/exxon/</guid>
       <description>This project triggers events on user actions such as when a event item has enough votes, it becomes approved or not approved. Emails are triggered to let event organisers know if an item is approved. All votes are displayed in a view.</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>https://swild.me/search/</link>
+      <link>https://up637415.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://swild.me/search/</guid>
+      <guid>https://up637415.github.io/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.

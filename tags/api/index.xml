@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api on Simon Wild</title>
-    <link>https://swild.me/tags/api/</link>
+    <link>https://up637415.github.io/tags/api/</link>
     <description>Recent content in Api on Simon Wild</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://swild.me/tags/api/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://up637415.github.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exxon Vote Tool</title>
-      <link>https://swild.me/projects/creations/exxon/</link>
+      <link>https://up637415.github.io/projects/creations/exxon/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://swild.me/projects/creations/exxon/</guid>
+      <guid>https://up637415.github.io/projects/creations/exxon/</guid>
       <description>This project triggers events on user actions such as when a event item has enough votes, it becomes approved or not approved. Emails are triggered to let event organisers know if an item is approved. All votes are displayed in a view.</description>
     </item>
     
